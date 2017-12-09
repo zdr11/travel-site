@@ -3,7 +3,9 @@ node_modules/
 dist/
 npm-debug.log
 yarn-error.log
-app/assets/
+app/assets/images/
+app/photos.html
+.vscode
 
 # Editor directories and files
 .idea
