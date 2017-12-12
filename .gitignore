@@ -6,6 +6,7 @@ yarn-error.log
 app/assets/images/
 app/photos.html
 .vscode
+package-lock.json
 
 # Editor directories and files
 .idea
