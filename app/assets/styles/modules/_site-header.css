@@ -9,10 +9,7 @@
         background-color: rgba($mainBlue, .55);
     }
     @mixin atMedium {
-<<<<<<< HEAD
-        
-=======
->>>>>>> d30c61f2107a88a8fd4fd61b5a25001c08695eaf
+        position: fixed;
         background-color: rgba($mainBlue, .3);
     }
     &__btn-container {
