@@ -1124,7 +1124,10 @@ background-position:36.69752421959096% 45.792307692307695%;
 @media (min-width:800px){
 
 .site-header {
+<<<<<<< HEAD
         position: fixed;
+=======
+>>>>>>> d30c61f2107a88a8fd4fd61b5a25001c08695eaf
         background-color: rgba(47,85,114, .3)
 }
     }
